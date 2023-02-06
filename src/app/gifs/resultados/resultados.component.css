@@ -1,0 +1,22 @@
+.GifsCard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  object-fit: contain;
+}
+.text-line-resultados {
+  white-space: nowrap;
+  overflow: hidden;
+  width: 150px;
+  text-align: center;
+  justify-content: center;
+}
+
+.d-flex {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
